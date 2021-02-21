@@ -1,4 +1,4 @@
-# IRRC (Islamic Republic Rial Coin)
+# IRTC (Islamic Republic Toman Coin)
 ## Created by the hope of make our financial difficulties better.
 
 How to do-it:
