@@ -1,4 +1,4 @@
-# IRTC (Islamic Republic Toman Coin)
+# IRTC (Islamic Republic Toman Coin) ![IRTC Icon](https://github.com/0xbe03/irtc/raw/master/icon32.png)
 ## Created by the hope of make our financial difficulties better.
 
 How to do-it:
