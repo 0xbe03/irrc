@@ -1,5 +1,5 @@
 # IRRC (Islamic Republic Rial Coin)
-## Created by the hope of make our financially difficulties better.
+## Created by the hope of make our financial difficulties better.
 
 How to do-it:
 * Gathering Basic knowledge about Cryptocurrencies and how they work.
