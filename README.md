@@ -10,6 +10,6 @@ How to do-it:
 ## What am i doing right now?
 > I just started this projects and want to learn everything is important in this Project.
 
-[Resources that I'm using](https://github.com/0xbe03/irrc)
+[Resources that I'm using](https://github.com/0xbe03/irtc/tree/master/resources)
 
 
