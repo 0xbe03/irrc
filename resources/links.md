@@ -3,3 +3,5 @@
 [Solidity Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea)
 
 [Learn solidity](https://www.tutorialspoint.com/solidity/)
+
+[Cryptography I By Stanford Uni.](https://www.coursera.org/learn/crypto) 
