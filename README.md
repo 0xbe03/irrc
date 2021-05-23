@@ -11,5 +11,6 @@ How to do-it:
 > I just started this projects and want to learn everything is important in this Project.
 
 [Resources that I'm using](https://github.com/0xbe03/irtc/tree/master/resources)
+[Start Learning From This Roadmap.](https://www.reddit.com/r/CryptoCurrency/comments/n5jz6w/want_to_become_a_crypto_developer_here_is_a_list/)
 
 
